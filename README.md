@@ -42,12 +42,3 @@ Software Engineering Student | Full-Stack Web Application Developer
 [![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://vercel.com/princeevansonstuds-projects)
 
 ---
-
-## GitHub Statistics
-
-<p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=princeevansonstud&show_icons=true&theme=tokyonight" />
-</p>
-<p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=princeevansonstud&layout=compact&theme=tokyonight" />
-</p>

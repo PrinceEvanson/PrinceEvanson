@@ -46,8 +46,8 @@ Software Engineering Student | Full-Stack Web Application Developer
 ## GitHub Statistics
 
 <p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=princeevansonstuds-projects&show_icons=true&theme=tokyonight" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=princeevansonstud&show_icons=true&theme=tokyonight" />
 </p>
 <p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=princeevansonstuds-projects&layout=compact&theme=tokyonight" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=princeevansonstud&layout=compact&theme=tokyonight" />
 </p>

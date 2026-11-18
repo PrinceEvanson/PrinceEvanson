@@ -6,8 +6,8 @@ Software Engineering Student | Full-Stack Web Application Developer
 
 ## About Me
 
-- Software engineering student focused on developing scalable web applications.
-- Actively learning Django, React, Docker, PostgreSQL, GitHub Actions, and CI/CD pipelines.
+- Full Stack Software engineer focused on developing scalable web applications.
+- Actively developing in Django, React, Docker, PostgreSQL, GitHub Actions, and CI/CD pipelines.
 - Interested in collaborating on open-source projects, full-stack applications, and developer communities.
 - Proficient in Python, Django, React, REST APIs, and version control with Git.
 

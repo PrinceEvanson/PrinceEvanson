@@ -1,6 +1,6 @@
 # Prince Evanson
 
-Software Engineering Student | Full-Stack Web Application Developer
+Software Engineer | Full-Stack Web Application Developer
 
 ---
 
